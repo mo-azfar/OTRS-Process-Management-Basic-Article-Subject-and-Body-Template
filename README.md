@@ -3,8 +3,8 @@
 - Built for OTRS CE 6.0.x / Znuny LTS  
   
   
-Article Description Short = Subject    
-Article Description Long = Body    
+	Article Description Short = Subject    
+	Article Description Long = Body    
 
 Process Management Activity Dialog Article Configuration
 [![b1.png](https://i.postimg.cc/VstzY5w8/b1.png)](https://postimg.cc/yW7Mj1WQ)
